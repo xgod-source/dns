@@ -1,0 +1,12 @@
+# Don't upload .env file
+.env
+
+# Don't upload database file
+db.sqlite3
+
+# Python cache
+_pycache_/
+*.pyc
+
+# Log file
+*.log
